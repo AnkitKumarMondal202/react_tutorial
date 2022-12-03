@@ -1,0 +1,18 @@
+.nav {
+  background-color: rgb(58, 56, 56);
+  color: white;
+  border-bottom: 2px solid red;
+  display: flex;
+  align-items: center;
+  padding: 20px 0px;
+}
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.li {
+  list-style: none;
+  padding: 0px 10px;
+}
